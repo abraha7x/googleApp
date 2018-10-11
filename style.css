@@ -8,12 +8,7 @@ body {
     height: 56px;
     color: #FFF;
     background: #3F51B5;
-    position: fixed;
     padding: 16px 16px 0px 16px;
-    display: flex;
-    justify-content: flex-start;
-    align-items: stretch;
-    align-content: center;
 }
 
 .header__title {
